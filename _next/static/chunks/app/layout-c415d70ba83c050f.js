@@ -249,10 +249,6 @@
                     style: { display:'flex', alignItems: 'center', gap:10},
                     children: [
                       (0, i.jsx)(r.$, {
-                        onClick: () => window.open("", "_blank"),
-                        children: "Coingecko",
-                      }),
-                      (0, i.jsx)(r.$, {
                         onClick: () => window.open(n.A.BUY_URL, "_blank"),
                         children: "Buy $PEPE6900",
                       }),
