@@ -571,9 +571,9 @@
         })
         .parse({
           BUY_URL:
-            "https://app.uniswap.org/swap?inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+            "https://app.uniswap.org/swap?inputCurrency=NATIVE&outputCurrency=0x421CFa011c9D2eDA25bDD46A95aCaf1A38e53e11",
           CHART_URL:
-            "https://dexscreener.com/ethereum/0xComingSoon",
+            "https://dexscreener.com/ethereum/0x421CFa011c9D2eDA25bDD46A95aCaf1A38e53e11",
           X_URL: "https://x.com/pepe6900onEth_X",
           API_BASE_URL: "https://api.bullishdegen.com/v1",
           APP_URL: "https://pfp.bullishdegen.com",
